@@ -2,12 +2,12 @@
 
 ## Members
 
-(MD) A346DKX4282 - Fernandico Geovardo
-(ML) M049DSX0588 - Dhuha Ardha Saputra
-(ML) M181DSX3641 - Vincent Yovian
-(CC) C368DSX2892 - I Ketut Teguh Wibawa Lessmana P. T.
-(CC) C220DSY0626 - Audy Revi Nugraha
-(CC) C303DKY3970 - Vanessa Evlin
+- (MD) A346DKX4282 - Fernandico Geovardo
+- (ML) M049DSX0588 - Dhuha Ardha Saputra
+- (ML) M181DSX3641 - Vincent Yovian
+- (CC) C368DSX2892 - I Ketut Teguh Wibawa Lessmana P. T.
+- (CC) C220DSY0626 - Audy Revi Nugraha
+- (CC) C303DKY3970 - Vanessa Evlin
 
 
 ## Machine learning model

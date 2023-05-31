@@ -36,4 +36,4 @@ https://github.com/vanessaevlin/tolong-capstone
 
 ## Mobile app
    
-TODO
+https://github.com/fernandicogeo/mobile-tolong

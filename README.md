@@ -32,7 +32,7 @@ We use the technique of transfer learning by adding multiple layers of fully con
 
 ## Cloud computing and deployment
 
-TODO
+https://github.com/vanessaevlin/tolong-capstone
 
 ## Mobile app
    

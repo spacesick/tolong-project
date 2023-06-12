@@ -28,7 +28,7 @@ We collected our Dataset various wound type from kaggle. We got 431 wound type i
 
 ### Architecture
 
-We use the technique of transfer learning by adding multiple layers of fully connected networks on top of an InceptionV3 model pre-trained on the imagenet dataset. We freeze all the layers in the pre-trained InceptionV3 except for the last 12. We saved our best performing model in .h5 format and its weights in a .ckpt file, which so far has reached a validation accuracy of 0.8315. The latest checkpoints can be found [here](https://drive.google.com/drive/folders/1PHNyZyMKG6q6ibdMQEZ6wYGbwXP243yX?usp=sharing). History of build/develop model before fix model can be found [here](https://github.com/dhuhaardha/Model_Capstone)
+We use the technique of transfer learning by adding multiple layers of fully connected networks on top of an InceptionV3 model pre-trained on the imagenet dataset. We freeze all the layers in the pre-trained InceptionV3 except for the last 12. We saved our best performing model in .h5 format and its weights in a .ckpt file, which so far has reached a validation accuracy of 0.8315. The latest checkpoints can be found [here](https://drive.google.com/drive/folders/1JRxoLPASzwMdFGjUG7gDhSLfg6zoRx-t?usp=sharing). History of build/develop model before fix model can be found [here](https://github.com/dhuhaardha/Model_Capstone)
 
 ## Cloud computing and deployment
 
